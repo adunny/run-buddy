@@ -12,3 +12,5 @@ https://adunny.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Alen
+
+# Run Buddy Inc.
